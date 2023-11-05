@@ -65,4 +65,12 @@ some scripts in python3.7 or shell are aveilable here, which are aimed to make s
 
 **autorun.sh & run_md.sh** : used to make a series of parallel simulations. need [Slurm](https://slurm.schedmd.com/documentation.html) and gromacs
 
+###About Me
+##Hello, I'm [Xingze Zhao] 👋
+
+- 🏢 I work at the College of Materials Science and Engineering and the Center for Advanced Chemical Engineering and Advanced Materials at China University of Petroleum (East China).
+- 🧪 My research focuses on molecular simulations of nanomaterials and chemicals for enhanced oil recovery (*EOR*).
+- ✉️ You can reach me at [xingzezhao@gmail.com](mailto:xingzezhao@gmail.com).
+
+Feel free to explore my research work and contributions!
 
