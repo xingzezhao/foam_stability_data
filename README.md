@@ -69,9 +69,9 @@ some scripts in python3.7 or shell are aveilable here, which are aimed to make s
 ### Hello, I'm [Xingze Zhao] 👋
 
 - 🏢 I work at  China University of Petroleum (East China).
-      - College of Materials Science and Engineering
-      - Center for Advanced Chemical Engineering and Advanced Materials
-      - Lab of Materials Theory Simulation and Design
+  - College of Materials Science and Engineering
+  - Center for Advanced Chemical Engineering and Advanced Materials
+  - Lab of Materials Theory Simulation and Design
 - 🧪 My research focuses on molecular simulations of nanomaterials and chemicals for enhanced oil recovery (*EOR*).
 - ✉️ You can reach me at [xingzezhao@gmail.com](mailto:xingzezhao@gmail.com).
 
